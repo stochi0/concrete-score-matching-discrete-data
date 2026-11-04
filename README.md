@@ -67,5 +67,3 @@ MIT License. See `LICENSE` for details.
 
 ## Acknowledgments
 This implementation is inspired by the original work and aims to provide an accessible version for researchers and developers.
-
-[Citation guide](CITATION.md) · [BibTeX](CITATION.bib)
